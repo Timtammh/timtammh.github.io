@@ -782,11 +782,16 @@ a:hover {
     font-family: Raleway, sans-serif
 }
 
+.about-description {
+    letter-spacing: 0.2px;
+}
+
 .about-area .about-description.last {
     padding-bottom: 33px;
     border-bottom: 1px solid #f0f0f0;
     margin-bottom: 0;
     text-align: justify;
+    letter-spacing: 0.2px;
 }
 
 .about-area .about-info {

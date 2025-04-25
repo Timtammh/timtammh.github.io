@@ -286,7 +286,7 @@ a:hover {
 }
 
 .navbar #navBtn {
-    margin: 0 0 2px 16px
+    margin: 26px 16px 1px 16px;
 }
 
 .navbar.scrolled {
